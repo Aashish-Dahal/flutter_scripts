@@ -5,7 +5,7 @@ import 'package:flutter_scripts/src/version.dart';
 import 'package:mason_logger/mason_logger.dart';
 import 'package:pub_updater/pub_updater.dart';
 
-const executableName = 'flutter_scripts';
+const executableName = 'RTW';
 const packageName = 'flutter_scripts';
 const description = 'Run flutter scripts from pubspec.yaml';
 
