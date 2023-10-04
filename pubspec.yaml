@@ -23,7 +23,7 @@ dev_dependencies:
   very_good_analysis: ^5.0.0+1
 
 executables:
-  flutter_scripts:
+  RTW:
 
 scripts:
   local_update: dart pub global activate --source=path .
